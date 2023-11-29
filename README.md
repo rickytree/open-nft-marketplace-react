@@ -30,14 +30,6 @@ yarn dev
 
 Check [Contributing](CONTRIBUTING.md) for a more in depth way how to contribute.
 
-# Deployment
-
-We recommend Vercel to deploy this app, after you made your changes on the app.json config file, just use the button below:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDexKit%2Fopen-nft-marketplace&env=INFURA_API_KEY)
-
-Note that you need to set up INFURA_API_KEY to Next js be able to generate pages.
-
 # Tech used
 
 Started from [NEXT JS + Material UI+ Typescript + Boilerplat](https://github.com/mui/material-ui/tree/master/examples/nextjs-with-typescript)
